@@ -12,4 +12,4 @@ int main(){
     cout<<"Simple interest is: "<<si<<endl;
     return 0;
 }
-   
+     
